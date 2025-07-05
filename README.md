@@ -1,4 +1,4 @@
-# classification_summarization_task_IBM_Granite
+# granite-nlp-lab
 
 Este repositorio contiene ejercicios prácticos realizados en un laboratorio del curso de IBM relacionados con tareas de clasificación de texto y resumen automático, utilizando el modelo **IBM Granite 3.3-8B Instruct** a través de la integración con LangChain y Replicate.
 
